@@ -1,0 +1,51 @@
+# Geotechnicalengineering — Winnipeg
+
+> Geotechnical engineering services in Winnipeg, Canada.
+
+## Services
+- [Anchors](https://winnipeg.geotechnicalengineering.vip/anchors/)
+- [Atterberg Limits](https://winnipeg.geotechnicalengineering.vip/atterberg-limits/)
+- [Cbr Road](https://winnipeg.geotechnicalengineering.vip/cbr-road/)
+- [Cpt Test](https://winnipeg.geotechnicalengineering.vip/cpt-test/)
+- [Deep Excavations](https://winnipeg.geotechnicalengineering.vip/deep-excavations/)
+- [Excavation Monitoring](https://winnipeg.geotechnicalengineering.vip/excavation-monitoring/)
+- [Excavations](https://winnipeg.geotechnicalengineering.vip/excavations/)
+- [Flexible Pavement](https://winnipeg.geotechnicalengineering.vip/flexible-pavement/)
+- [Footings](https://winnipeg.geotechnicalengineering.vip/footings/)
+- [Foundations](https://winnipeg.geotechnicalengineering.vip/foundations/)
+- [Grain Size](https://winnipeg.geotechnicalengineering.vip/grain-size/)
+- [Ground Improvement](https://winnipeg.geotechnicalengineering.vip/ground-improvement/)
+- [Grouting](https://winnipeg.geotechnicalengineering.vip/grouting/)
+- [In Situ Permeability](https://winnipeg.geotechnicalengineering.vip/in-situ-permeability/)
+- [Investigation](https://winnipeg.geotechnicalengineering.vip/investigation/)
+- [Lab In Situ](https://winnipeg.geotechnicalengineering.vip/lab-in-situ/)
+- [Laboratory](https://winnipeg.geotechnicalengineering.vip/laboratory/)
+- [Liquefaction](https://winnipeg.geotechnicalengineering.vip/liquefaction/)
+- [Masw](https://winnipeg.geotechnicalengineering.vip/masw/)
+- [Mat Foundations](https://winnipeg.geotechnicalengineering.vip/mat-foundations/)
+- [Piles](https://winnipeg.geotechnicalengineering.vip/piles/)
+- [Proctor Tests](https://winnipeg.geotechnicalengineering.vip/proctor-tests/)
+- [Resistivity](https://winnipeg.geotechnicalengineering.vip/resistivity/)
+- [Retaining Walls](https://winnipeg.geotechnicalengineering.vip/retaining-walls/)
+- [Rigid Pavement](https://winnipeg.geotechnicalengineering.vip/rigid-pavement/)
+- [Road Geotechnics](https://winnipeg.geotechnicalengineering.vip/road-geotechnics/)
+- [Sand Cone Density](https://winnipeg.geotechnicalengineering.vip/sand-cone-density/)
+- [Seismic](https://winnipeg.geotechnicalengineering.vip/seismic/)
+- [Seismic Isolation](https://winnipeg.geotechnicalengineering.vip/seismic-isolation/)
+- [Seismic Microzonation](https://winnipeg.geotechnicalengineering.vip/seismic-microzonation/)
+- [Seismic Refraction](https://winnipeg.geotechnicalengineering.vip/seismic-refraction/)
+- [Slope Stability](https://winnipeg.geotechnicalengineering.vip/slope-stability/)
+- [Slopes](https://winnipeg.geotechnicalengineering.vip/slopes/)
+- [Soft Ground Tunnels](https://winnipeg.geotechnicalengineering.vip/soft-ground-tunnels/)
+- [Spt Drilling](https://winnipeg.geotechnicalengineering.vip/spt-drilling/)
+- [Stone Columns](https://winnipeg.geotechnicalengineering.vip/stone-columns/)
+- [Test Pits](https://winnipeg.geotechnicalengineering.vip/test-pits/)
+- [Triaxial](https://winnipeg.geotechnicalengineering.vip/triaxial/)
+- [Vibrocompaction](https://winnipeg.geotechnicalengineering.vip/vibrocompaction/)
+
+## Contact
+- Website: https://winnipeg.geotechnicalengineering.vip/
+
+## About
+This site provides geotechnical engineering services in Winnipeg, Canada.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
