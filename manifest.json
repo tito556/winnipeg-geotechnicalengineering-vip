@@ -11,5 +11,10 @@
       "sizes": "any",
       "type": "image/svg+xml"
     }
-  ]
+  ],
+  "lang": "en",
+  "orientation": "any",
+  "scope": "/",
+  "description": "Professional geotechnical services in Winnipeg, Canada. Soil studies, testing and technical consulting.",
+  "id": "/winnipeg-5143"
 }
