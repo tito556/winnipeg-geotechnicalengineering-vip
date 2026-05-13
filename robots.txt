@@ -34,6 +34,6 @@ User-agent: SemrushBot
 Disallow: /
 
 User-agent: AhrefsBot
-Crawl-delay: 10
+Crawl-delay: 8
 
 Sitemap: https://winnipeg.geotechnicalengineering.vip/sitemap.xml
