@@ -89,6 +89,35 @@ header.hero, .hero { position: relative !important; }
 .leaflet-control { z-index: 800 !important; }
 .leaflet-container { z-index: 1 !important; }
 </style>
+<style id="inline-link-style">
+p a[href^="/"]:not(.cta-btn):not(.hero-cta){color:var(--accent,#7C2D12) !important;text-decoration:underline !important;text-decoration-color:rgba(29,78,216,.45);text-underline-offset:2px;font-weight:600}
+p a[href^="/"]:not(.cta-btn):not(.hero-cta):hover{text-decoration-color:currentColor;opacity:.85}
+</style>
+<style id="navbar-compact-fix">
+/* Compactar navbar para que el menú entre completo */
+.navbar{padding:.65rem 1rem !important}
+.navbar .nav{gap:.55rem !important}
+.nav-item{font-size:.74rem !important;letter-spacing:.01em !important}
+.nav-item.has-dd .nav-cat-link{padding:.4rem .25rem !important}
+.nav-item.has-dd .nav-arrow{font-size:.7rem !important;margin-left:.15rem !important}
+.cta-btn{padding:.45rem .8rem !important;font-size:.72rem !important;letter-spacing:.03em !important}
+.logo-box,.brand-name,.brand{font-size:.82rem !important}
+.logo-text .main{font-size:.95rem !important}
+.logo-text .sub{font-size:.72rem !important}
+/* Para layouts aberdeen/classic con clase distinta */
+header nav a,.menu a{font-size:.78rem !important}
+@media (max-width:1100px){
+  .nav-item{font-size:.7rem !important}
+  .navbar .nav{gap:.4rem !important}
+  .cta-btn{padding:.4rem .65rem !important;font-size:.68rem !important}
+}
+</style>
+<style id="layout-defensive">
+html,body{overflow-x:hidden;max-width:100vw}
+body>*{max-width:100vw}
+@media (min-width:901px){aside{position:relative}.content-area{display:flex;gap:1rem}}
+@media (max-width:900px){aside{width:100% !important;position:static !important;height:auto !important}.navbar{flex-wrap:wrap}}
+</style>
 </head><body>
 
 <nav class="navbar">
@@ -111,7 +140,7 @@ header.hero, .hero { position: relative !important; }
 <img src="/img/limites-atterberg-3.webp" alt="Laboratory in Winnipeg" loading="lazy" decoding="async" style="width:100%;max-height:220px;object-fit:cover;display:block;border-radius:6px;margin:1.5rem 0">
 <p>Geotechnical laboratory testing in Winnipeg provides essential data on the physical and mechanical properties of the region’s challenging soils, primarily the glaciolacustrine clays of the Lake Agassiz basin. These high-plasticity deposits require precise classification to predict volume change and strength behavior under Manitoba’s seasonal moisture cycles. Our facility performs standardized tests in accordance with ASTM and CSA A23 guidelines to support foundation design and earthworks specification. Core index procedures include <a href="grain-size">grain size analysis (sieve + hydrometer)</a> to determine particle distribution and <a href="atterberg-limits">Atterberg limits</a> for evaluating plasticity characteristics critical to assessing the expansive potential of local clays.</p>
 
-<p>These analyses are fundamental for residential subdivisions on grade-supported slabs, transportation corridors crossing the Red River floodplain, and commercial excavations where groundwater control is sensitive to fines content. Reliable laboratory data directly informs bearing capacity calculations, settlement predictions, and soil improvement strategies such as lime stabilization. Integrating index testing with strength and consolidation programs ensures that Winnipeg’s geotechnical consultants receive a complete material profile, reducing uncertainty in foundation recommendations across the city’s distinct clay belt.</p></div></section>
+<p>These analyses are fundamental for residential subdivisions on grade-supported slabs, transportation corridors crossing the Red River floodplain, and commercial <a href="/excavations/">excavations</a> where groundwater control is sensitive to fines content. Reliable laboratory data directly informs bearing capacity calculations, settlement predictions, and soil improvement strategies such as lime stabilization. Integrating index testing with strength and consolidation programs ensures that Winnipeg’s geotechnical consultants receive a complete material profile, reducing uncertainty in foundation recommendations across the city’s distinct clay belt.</p></div></section>
 <section class="block" style="padding:2rem 1.5rem"><div style="max-width:1200px;margin:0 auto"><h2 style="margin-bottom:1.5rem;font-weight:700">Available services</h2><div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:1rem"><a href="../grain-size/" style="display:block;padding:1.2rem;border:1px solid #E5E7EB;border-radius:10px;text-decoration:none;color:inherit;background:#FFFFFF;transition:all .2s;box-shadow:0 1px 2px rgba(0,0,0,.04)" onmouseover="this.style.borderColor='#F43F5E';this.style.transform='translateY(-2px)';this.style.boxShadow='0 4px 14px rgba(0,0,0,.08)'" onmouseout="this.style.borderColor='#E5E7EB';this.style.transform='translateY(0)';this.style.boxShadow='0 1px 2px rgba(0,0,0,.04)'"><h3 style="margin:0 0 .4rem;font-size:1.1rem">Grain size analysis (sieve + hydrometer)</h3><span style="font-size:.85rem;color:#666">→ Ver detalle</span></a><a href="../atterberg-limits/" style="display:block;padding:1.2rem;border:1px solid #E5E7EB;border-radius:10px;text-decoration:none;color:inherit;background:#FFFFFF;transition:all .2s;box-shadow:0 1px 2px rgba(0,0,0,.04)" onmouseover="this.style.borderColor='#F43F5E';this.style.transform='translateY(-2px)';this.style.boxShadow='0 4px 14px rgba(0,0,0,.08)'" onmouseout="this.style.borderColor='#E5E7EB';this.style.transform='translateY(0)';this.style.boxShadow='0 1px 2px rgba(0,0,0,.04)'"><h3 style="margin:0 0 .4rem;font-size:1.1rem">Atterberg limits</h3><span style="font-size:.85rem;color:#666">→ Ver detalle</span></a></div></div></section>
 <section class="block mid-cta-21c6" style="padding:2rem 0">
       <div style="max-width:720px;margin:0 auto;background:linear-gradient(135deg,#A1620715,#A1620708);border-left:4px solid #A16207;padding:1.6rem 1.8rem;border-radius:8px;text-align:center">
